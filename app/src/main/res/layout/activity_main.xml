@@ -59,7 +59,8 @@
             android:layout_centerInParent="true"
             android:background="@color/colorPrimary"
             android:text="@string/button_text"
-            android:textColor="@android:color/white" />
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
     </RelativeLayout>
 
 </LinearLayout>
